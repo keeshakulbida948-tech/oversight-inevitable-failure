@@ -72,3 +72,10 @@ When all four are weakened at once, the thesis approaches being unconditionally 
 ## Closing
 
 "Oversight inevitably fails" is not a call to abandon oversight. It says: **anchoring safety in "a stronger overseer" is wrong, because the structure of oversight itself is decaying.** The way out is not to make the overseer stronger, faster, or more diligent, but to change the structure — to design **readability, the right to explain, and the right to exit** into the system itself, instead of leaving them in human hands to patch afterward.
+
+---
+
+## Related
+
+- [Positions, Arguments, and the 2026 Evidence](asi-responses-and-evidence_EN.md) — lays out each camp's approach and core claim (Hinton / Fei-Fei Li / LeCun / Bengio / Zeng Yi / Anthropic / OpenAI / Musk / the regulation camp / the evaluation industry), checks them against public events of July–September 2026, and labels each as **falsified / partially validated / still open**; then shows how these results weaken the four boundary conditions above.
+  - 中文版: [各方路线 · 论点 · 与 2026 年实证对照](asi-responses-and-evidence.md)
